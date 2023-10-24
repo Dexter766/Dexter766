@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deep Patel @Dexter766
 - 👀 I’m interested in new technologies and programming.
 - 🌱 I’m currently learning to work on python and improving my skills in JAVA.
-- 💞️ I’m looking to collaborate on anything that looks intersting and demanding in near furture.
+- 💞️ I’m looking to collaborate on anything that looks interesting and demanding in near furture.
 - 📫 How to reach me : Here is my LinkedIn profile  https://www.linkedin.com/in/deep-patel-132aa0173
 
 <!---
