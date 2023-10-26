@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to work on python and improving my skills in JAVA.
 - 💞️ I’m looking to collaborate on anything that looks interesting and demanding in near furture.
 - 📫 How to reach me : Here is my LinkedIn profile  https://www.linkedin.com/in/deep-patel-132aa0173
--[Holopin profile](https://holopin.me/dexter766)(https://holopin.io/@dexter766)
+[Holopin profile](https://holopin.me/dexter766)(https://holopin.io/@dexter766)
 
 <!---
 Dexter766/Dexter766 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
