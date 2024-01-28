@@ -6,7 +6,7 @@
 
 # Skills:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,c++,js,html,css,php,python,java,arduino,mysql" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,js,php,arduino,mysql,python,java" />
 </p>
 
 [![An image of @dexter766's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dexter766)](https://holopin.io/@dexter766)
