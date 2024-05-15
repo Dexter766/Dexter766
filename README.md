@@ -1,4 +1,4 @@
-i- 👋 Hi, I’m Deep Patel @Dexter766
+- 👋 Hi, I’m Deep Patel @Dexter766
 - 👀 I’m interested in new technologies and programming.
 - 🌱 I’m currently learning to work on react.js and improving my skills in programming.
 - 💞️ I’m looking to collaborate on anything that looks interesting and demanding in near furture.
